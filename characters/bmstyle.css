@@ -1,0 +1,84 @@
+th {  
+  border-top-width: 2px;  
+  border-right-width: 2px;  
+  border-bottom-width: 2px;  
+  border-left-width: 2px;  
+  border-top-style: solid;  
+  border-right-style: solid;  
+  border-bottom-style: solid;  
+  border-left-style: solid;  
+  border-top-color: black;  
+  border-right-color: black;  
+  border-bottom-color: black;  
+  border-left-color: black;  
+  font-size: 22px;  
+  color: black;  
+  background-color: #ffffcc;  
+  font-family: "Courier New", Courier, monospace;  
+  font-variant: small-caps;
+}
+
+.descript {  
+  font-family: "Courier New", Courier, monospace;  
+  background-color: #ffffcc;  
+  font-weight: bold;  
+  border-top-width: 1px;  
+  border-right-width: 1px;  
+  border-bottom-width: 1px;  
+  border-left-width: 1px;  
+  border-top-style: solid;  
+  border-right-style: solid;  
+  border-bottom-style: solid;  
+  border-left-style: solid;  
+  border-top-color: #828282;  
+  border-right-color: #828282;  
+  border-bottom-color: #828282;  
+  border-left-color: #828282;  
+  padding-left: 5px;  
+  font-variant: small-caps;  
+  font-size: 20px;
+}
+
+.talheader {  
+  background-color: #ffff33;
+}
+
+.talhead {  
+  background-color: #ccffff;  
+  color: black;  
+  font-family: "Courier New", Courier, monospace;  
+  font-size: 34px;  
+  text-align: center;  
+  font-weight: bold;  
+  letter-spacing: 5px;  -epub-text-transform: capitalize;
+  text-transform: capitalize;
+}
+
+.values {  
+  font-family: "Courier New", Courier, monospace;  
+  font-weight: bold;  
+  font-size: 20px;  
+  left: auto;  
+  padding-left: 7px;
+}
+
+.progbar {  
+  background-color: #ff9966;  
+  border-top-color: red;  -webkit-border-radius: 0px 0px 0px 0px;
+  border-radius: 0px 0px 0px 0px;  
+  text-align: right;  
+  font-family: "Courier New", Courier, monospace;  
+  font-style: italic;  
+  font-weight: bold;  
+  color: white;  
+  padding-bottom: 0px;  
+  padding-right: 6px;
+}
+
+.props {  
+  font-family: "Courier New", Courier, monospace;  
+  font-size: 20px;  
+  font-weight: bold;  
+  text-align: center;  
+  background-color: white;
+}
