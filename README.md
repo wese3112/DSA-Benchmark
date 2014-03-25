@@ -104,3 +104,12 @@ wird er folgendermaßen geladen (Name z.B. Melchior):
 
 	import dsatool as dsa
 	Melchior = dsa.Character('Melchior')
+
+Beispielcharakter
+-----------------
+
+Im Repository ist der Beispielcharakter 'Vracass' vorhanden. Den Benchmark-Bericht (html) kann man sich hier:
+
+http://htmlpreview.github.io/?https://github.com/wese3112/DSA-Benchmark/blob/master/characters/dsachar_Vracass/benchmark_Vracass.html
+
+ansehen (leider scheint hier die .css-Styledatei nicht zu funktinieren, am PC klappt es aber und da siehts dann besser aus).
