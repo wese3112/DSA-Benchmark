@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<charakter name="Vracass">
+   <eigenschaft name="mu">14</eigenschaft>
+   <eigenschaft name="kl">14</eigenschaft>
+   <eigenschaft name="in">14</eigenschaft>
+   <eigenschaft name="ch">10</eigenschaft>
+   <eigenschaft name="ff">9</eigenschaft>
+   <eigenschaft name="ge">12</eigenschaft>
+   <eigenschaft name="ko">16</eigenschaft>
+   <eigenschaft name="kk">16</eigenschaft>
+   <talente>
+      <talent art="koerperlich" typ="basis">klettern</talent>
+      <talentwert>2</talentwert>
+      <probe>mu,ge,kk</probe>
+   </talente>
+   <talente>
+      <talent art="koerperlich" typ="basis">koerperbeherrschung</talent>
+      <talentwert>2</talentwert>
+      <probe>mu,in,ge</probe>
+   </talente>
+   <talente>
+      <talent art="koerperlich" typ="basis">schleichen</talent>
+      <talentwert>4</talentwert>
+      <probe>mu,in,ge</probe>
+   </talente>
+   <talente>
+      <talent art="koerperlich" typ="basis">schwimmen</talent>
+      <talentwert>0</talentwert>
+      <probe>ge,ko,kk</probe>
+   </talente>
+   <talente>
+      <talent art="koerperlich" typ="basis">selbstbeherrschung</talent>
+      <talentwert>3</talentwert>
+      <probe>mu,ko,kk</probe>
+   </talente>
+   <talente>
+      <talent art="koerperlich" typ="basis">sich_verstecken</talent>
+      <talentwert>1</talentwert>
+      <probe>mu,in,ge</probe>
+   </talente>
+   <talente>
+      <talent art="koerperlich" typ="basis">singen</talent>
+      <talentwert>0</talentwert>
+      <probe>in,ch,ch</probe>
+   </talente>
+   <talente>
+      <talent art="koerperlich" typ="basis">sinnesschaerfe</talent>
+      <talentwert>6</talentwert>
+      <probe>kl,in,in</probe>
+   </talente>
+   <talente>
+      <talent art="koerperlich" typ="basis">tanzen</talent>
+      <talentwert>0</talentwert>
+      <probe>ch,ge,ge</probe>
+   </talente>
+   <talente>
+      <talent art="koerperlich" typ="basis">zechen</talent>
+      <talentwert>7</talentwert>
+      <probe>in,ko,kk</probe>
+   </talente>
+   <talente>
+      <talent art="koerperlich" typ="spezial">akrobatik</talent>
+      <talentwert>-3</talentwert>
+      <probe>mu,ge,kk</probe>
+   </talente>
+   <talente>
+      <talent art="koerperlich" typ="spezial">athletik</talent>
+      <talentwert>3</talentwert>
+      <probe>ge,ko,kk</probe>
+   </talente>
+   <talente>
+      <talent art="koerperlich" typ="spezial">reiten</talent>
+      <talentwert>-1</talentwert>
+      <probe>ch,ge,kk</probe>
+   </talente>
+   <talente>
+      <talent art="gesellschaftlich" typ="basis">menschenkenntnis</talent>
+      <talentwert>2</talentwert>
+      <probe>kl,in,ch</probe>
+   </talente>
+   <talente>
+      <talent art="gesellschaftlich" typ="basis">ueberreden</talent>
+      <talentwert>6</talentwert>
+      <probe>mu,in,ch</probe>
+   </talente>
+   <talente>
+      <talent art="gesellschaftlich" typ="spezial">gassenwissen</talent>
+      <talentwert>-1</talentwert>
+      <probe>kl,in,ch</probe>
+   </talente>
+   <talente>
+      <talent art="natur" typ="basis">faehrtensuchen</talent>
+      <talentwert>2</talentwert>
+      <probe>kl,in,ko</probe>
+   </talente>
+   <talente>
+      <talent art="natur" typ="basis">orientierung</talent>
+      <talentwert>2</talentwert>
+      <probe>kl,in,in</probe>
+   </talente>
+   <talente>
+      <talent art="natur" typ="basis">wildnisleben</talent>
+      <talentwert>2</talentwert>
+      <probe>in,ge,ko</probe>
+   </talente>
+   <talente>
+      <talent art="natur" typ="spezial">fallenstellen</talent>
+      <talentwert>2</talentwert>
+      <probe>kl,ff,kk</probe>
+   </talente>
+   <talente>
+      <talent art="natur" typ="spezial">fesseln_entfesseln</talent>
+      <talentwert>1</talentwert>
+      <probe>ff,ge,kk</probe>
+   </talente>
+   <talente>
+      <talent art="natur" typ="spezial">fischen_angeln</talent>
+      <talentwert>1</talentwert>
+      <probe>in,ff,kk</probe>
+   </talente>
+   <talente>
+      <talent art="natur" typ="spezial">wettervorhersage</talent>
+      <talentwert>-1</talentwert>
+      <probe>kl,in,in</probe>
+   </talente>
+   <talente>
+      <talent art="wissen" typ="basis">goetter_kulte</talent>
+      <talentwert>1</talentwert>
+      <probe>kl,kl,in</probe>
+   </talente>
+   <talente>
+      <talent art="wissen" typ="basis">rechnen</talent>
+      <talentwert>0</talentwert>
+      <probe>kl,kl,in</probe>
+   </talente>
+   <talente>
+      <talent art="wissen" typ="basis">sagen_legenden</talent>
+      <talentwert>2</talentwert>
+      <probe>kl,in,ch</probe>
+   </talente>
+   <talente>
+      <talent art="wissen" typ="spezial">gesteinskunde</talent>
+      <talentwert>4</talentwert>
+      <probe>kl,in,ff</probe>
+   </talente>
+   <talente>
+      <talent art="wissen" typ="spezial">heraldik</talent>
+      <talentwert>1</talentwert>
+      <probe>kl,kl,ff</probe>
+   </talente>
+   <talente>
+      <talent art="wissen" typ="spezial">kriegskunst</talent>
+      <talentwert>3</talentwert>
+      <probe>mu,kl,ch</probe>
+   </talente>
+   <talente>
+      <talent art="wissen" typ="spezial">mechanik</talent>
+      <talentwert>2</talentwert>
+      <probe>kl,kl,ff</probe>
+   </talente>
+   <talente>
+      <talent art="wissen" typ="spezial">rechtskunde</talent>
+      <talentwert>1</talentwert>
+      <probe>kl,kl,in</probe>
+   </talente>
+   <talente>
+      <talent art="wissen" typ="spezial">schaetzen</talent>
+      <talentwert>5</talentwert>
+      <probe>kl,in,in</probe>
+   </talente>
+   <talente>
+      <talent art="wissen" typ="spezial">tierkunde</talent>
+      <talentwert>2</talentwert>
+      <probe>mu,kl,in</probe>
+   </talente>
+   <talente>
+      <talent art="handwerklich" typ="basis">heilkunde_wunden</talent>
+      <talentwert>6</talentwert>
+      <probe>kl,ch,ff</probe>
+   </talente>
+   <talente>
+      <talent art="handwerklich" typ="basis">holzbearbeitung</talent>
+      <talentwert>0</talentwert>
+      <probe>kl,ff,kk</probe>
+   </talente>
+   <talente>
+      <talent art="handwerklich" typ="basis">kochen</talent>
+      <talentwert>5</talentwert>
+      <probe>kl,in,ff</probe>
+   </talente>
+   <talente>
+      <talent art="handwerklich" typ="basis">lederarbeiten</talent>
+      <talentwert>5</talentwert>
+      <probe>kl,ff,ff</probe>
+   </talente>
+   <talente>
+      <talent art="handwerklich" typ="basis">malen_zeichnen</talent>
+      <talentwert>0</talentwert>
+      <probe>kl,in,ff</probe>
+   </talente>
+   <talente>
+      <talent art="handwerklich" typ="basis">schneidern</talent>
+      <talentwert>2</talentwert>
+      <probe>kl,ff,ff</probe>
+   </talente>
+   <talente>
+      <talent art="handwerklich" typ="spezial">fahrzeug_lenken</talent>
+      <talentwert>1</talentwert>
+      <probe>in,ch,ff</probe>
+   </talente>
+   <talente>
+      <talent art="handwerklich" typ="spezial">schloesser_knacken</talent>
+      <talentwert>4</talentwert>
+      <probe>in,ff,ff</probe>
+   </talente>
+   <talente>
+      <talent art="handwerklich" typ="spezial">falschspiel</talent>
+      <talentwert>2</talentwert>
+      <probe>mu,ch,ff</probe>
+   </talente>
+   <talente>
+      <talent art="handwerklich" typ="beruf">bergbau</talent>
+      <talentwert>2</talentwert>
+      <probe>in,ko,kk</probe>
+   </talente>
+   <talente>
+      <talent art="handwerklich" typ="beruf">fleischer</talent>
+      <talentwert>2</talentwert>
+      <probe>kl,ff,kk</probe>
+   </talente>
+</charakter>
